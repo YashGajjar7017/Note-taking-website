@@ -1,2 +1,3 @@
 # Note-taking-website
 This is Note-taking-website that takes all note and store them to server ...
+|copyright by yash-g|
